@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShopApp.DataAccess",
+    "\\ShopApp.DataAccess\\Concrete",
+    "\\ShopApp.DataAccess\\Concrete\\EfCore"
+  ],
+  "SelectedNode": "\\ShopApp.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+
+
+
+
+    <title>Shop App</title>
+
+</head>
+<body>
+    <partial name="_navbar">
+
+
+        <div class="container pt-100 mb-5">@RenderBody()</div>
+
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/popper.js/cjs/popper.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+
+        @RenderSection("Scripts", false) <!--Sadece gerekli yerlerde kullanılsın-->
+
+</body>
+</html>

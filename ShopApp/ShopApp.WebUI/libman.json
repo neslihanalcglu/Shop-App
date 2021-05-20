@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "popper.js@2.9.2",
+      "destination": "wwwroot/popper.js/"
+    },
+    {
+      "library": "ckeditor@4.16.0",
+      "destination": "wwwroot/ckeditor/"
+    },
+    {
+      "library": "ckeditor5@27.1.0",
+      "destination": "wwwroot/ckeditor5/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\bin\Debug\net5.0\ShopApp.Entities.deps.json
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\bin\Debug\net5.0\ShopApp.Entities.dll
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\bin\Debug\net5.0\ref\ShopApp.Entities.dll
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\bin\Debug\net5.0\ShopApp.Entities.pdb
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.dll
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ref\ShopApp.Entities.dll
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.pdb
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\bin\Debug\net5.0\ShopApp.Entities.runtimeconfig.json
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\bin\Debug\net5.0\ShopApp.Entities.runtimeconfig.dev.json
+C:\Users\NeslihanAlcglu\source\repos\ShopApp\ShopApp.Entities\obj\Debug\net5.0\ShopApp.Entities.genruntimeconfig.cache
